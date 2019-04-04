@@ -1,0 +1,191 @@
+.container{
+  width:900px;
+  height: 100%;
+  margin:auto;
+}
+body {
+  background-repeat: no-repeat;
+  background-position:  none;
+  background-attachment: local;
+  background-size: 1400px 755px;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,
+  Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,
+  Segoe UI Symbol,Noto Color Emoji;
+}
+.navbar{
+    width: 100%;
+    height: 55px;
+    margin-bottom: 15px;
+    color: white;
+  
+}
+.navbar .navbar-logo{
+    width: 50%;
+    float: left;
+    margin-top: 21px;
+    margin-left: 30px;
+    font-family: Arial;
+    
+    
+}
+.navbar .navbar-logo p{
+    margin-top: -35px;
+    margin-left: 49px;
+    font-size: 27px;
+}
+
+ul.list-menu{
+    margin-right: 28px;
+    padding: 0;
+    float:right;
+    margin-top: 30px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,
+    Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,
+    Segoe UI Symbol,Noto Color Emoji;
+    font-size: 18px;
+    font-weight: 400;
+}
+ul li {
+    display: inline;
+    margin-left:28px;
+}
+ul li button{
+    background-color: #fd7e14;
+    border-radius: 8px ;
+    border-color: #fd7e14;
+    color: white;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: -30px;
+    font-family: 1rem;
+}
+
+  .main-bar .main-header .header{
+   margin-top: -590px;
+   margin-left: 30px;
+    font-size: 26px;
+    color: white;
+    font-family: arial;
+    float: left;
+    width: 45%;
+  }  
+  p{
+    margin-top: -15px;
+    font-size: 14px;
+  }
+  .main-bar .main-header .foto{
+    margin-top: -828px;
+    float: right;
+    margin-right:-30px;
+  }
+  .main-bar .main-header .img{
+    margin-top:-630px;
+    float: right;
+    margin-left: 840px;
+    position: absolute;
+  }  
+  .main-content .content-1 .content-judul{
+    margin-top: 85%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial;
+  }
+  .content-1 .content-isi1 table {
+    margin-top: 80px;
+    font-family: arial;
+    font-size: 20px;
+  }
+  .content1 .content-isi1 table tr{
+    margin-top:20px;
+  }
+
+  .content-1 .content-isi2{
+    margin-top: 80px;
+  }
+  .main-content .content-2 .content-judul{
+    margin-top: 15%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial;
+  }
+ .content-2 .content-isi1  {
+    margin-top: 80px;
+    font-family: arial;
+    font-size: 16px;
+  }
+  .content-2 .content-isi1 table{
+    margin-top:20px;
+  }
+  .content-2 .content-isi1 .jeruk{
+    color: #fd7e14;
+    font-weight: bold
+  }
+  .content-2 .content-isi2 {
+      margin-top:100px;
+  }
+  .content-3 .content-isi1{
+    margin-top: 150px;
+  }
+  .content-3 .content-isi1 table{
+    margin-top:20px;
+  }
+  .content-3 .content-isi1 .jeruk{
+    color: #fd7e14;
+    font-weight: bold
+  }
+  .content-4 .content-judul{
+    margin-top: 130%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial;
+  }
+  .content-4 .content-team .pembina{
+  margin-top:8%;
+  text-align: center;
+  }
+ .content-4 .content-team .pembina img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+  }
+  .content-4 .content-team .nama{
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .content-team  .posisi{
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  .content-4 .content-team .anggota .member {
+    text-align: center;
+    margin-top:50px;
+  }
+  .content-4 .content-team .anggota .member img{
+  width: 170px;
+  height: 170px;
+  }
+  .footer{
+  border-top: 1px solid black;
+  width: 100%;
+  height: 60px;
+  margin-top:60px;
+}
+.footer .bar-left{
+  margin-top: 30px;
+  margin-left: 15px;
+}
+
+.footer .bar-right{
+  float:right;
+  color: black;
+  font-size: 55px;
+  margin-right: 20px;
+  margin-top:-50px;
+}
+  
